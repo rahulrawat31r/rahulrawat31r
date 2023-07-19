@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Full Stack Developer</h3>
 
 # 💫 About Me:
-I have recently delivered a MR reporting system made with Full  Stack Development in Node.js<br>
+Passionate about creating scalable and efficient web applications, I leverage my comprehensive skill set to deliver high-quality solutions. I excel in designing and implementing robust architectures, optimizing performance, and ensuring seamless user experiences. Committed to staying up-to-date with emerging technologies, I continuously enhance my skills to drive innovation and contribute to the success of projects. <br>
 
 
 ## 🌐 Socials:
