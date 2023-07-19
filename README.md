@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Full Stack Developer</h3>
 
 # 💫 About Me:
-I'm currently learning React.js<br><br>I have recently delivered a MR reporting system made with Full  Stack Development in Node.js<br>
+I have recently delivered a MR reporting system made with Full  Stack Development in Node.js<br>
 
 
 ## 🌐 Socials:
