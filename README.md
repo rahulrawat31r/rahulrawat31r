@@ -3,8 +3,7 @@
 
 # 💫 About Me:
 Passionate about creating scalable and efficient web applications, I leverage my comprehensive skill set to deliver high-quality solutions. I excel in designing and implementing robust architectures, optimizing performance, and ensuring seamless user experiences. Committed to staying up-to-date with emerging technologies, I continuously enhance my skills to drive innovation and contribute to the success of projects. <br>
-
-https://github-profile-trophy.vercel.app/?username=rahulrawat31r&title=Commits&theme=gitdimmed
+[![trophy](https://github-profile-trophy.vercel.app/?username=rahulrawat31r&title=Commits&theme=gitdimmed)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rahulrawat31r)[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/RRahul#0269) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rahulrawat31r)  [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/RahulRawat91117) 
